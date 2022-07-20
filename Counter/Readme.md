@@ -1,1 +1,2 @@
-# Simple increment decrement counter
+# Simple increment decrement counter using redux
+ 
